@@ -17,7 +17,7 @@
 .wrapper {
   height: 100vh;
   display: grid;
-  grid-template-columns: 18% 1fr;
+  grid-template-columns: 17% 1fr;
   grid-template-rows: 180px 1fr;
   grid-template-areas:
     "sidebar header"
@@ -47,7 +47,7 @@ ul {
   padding: 11px;
   display: flex;
   flex-direction: column;
-  gap: 1rem;
+  gap: 1.5rem;
 }
 img {
   height: auto;
